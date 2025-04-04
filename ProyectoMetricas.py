@@ -482,7 +482,7 @@ if stock_seleccionado:
 # Mostrar la gráfica
     plt.show()
 
-
+##neto
 
 # Cálculo explícito de q_alpha
 q_95 = norm.ppf(0.05)
